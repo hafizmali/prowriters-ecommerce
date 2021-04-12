@@ -7,15 +7,23 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 ## Install This project
+
 ## 1.composer update
+
 ## 2.php artisan migrate
+
 ## 3.php artisan db:seed 
+
 ## 4.php artisan db:seed --class=UsersTableSeeder
+
 ## 5.php artisan key:generate
+
 ## 6.php artisan storage:link 
+
 ## 7.Done, Have a fun just Login using this credetionals email: admin@demo.com  password: 123456
-## 8.If you need to have dummy content for testing the application, run the following artisan
-## command
+
+## 8.If you need to have dummy content for testing the application, run the following artisan command
+
 ## -- php artisan prowriters:dummy-data
 
 
